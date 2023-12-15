@@ -2,7 +2,7 @@
                   
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&size=30&pause=1000&color=F7E344&random=false&width=435&lines=Web+developer(intern);Software+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&size=30&pause=1000&color=F7E344&random=false&width=435&lines=Web+developer;Software+Engineering+student;)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently studying Software Engineering
